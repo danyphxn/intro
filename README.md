@@ -1,6 +1,6 @@
 ## Sound
 
-[samples] (samples.json)
+[Samples] (samples.json)
 
    
        
