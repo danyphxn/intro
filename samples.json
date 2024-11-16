@@ -1,13 +1,13 @@
 [
-    { "url":"audis/HOME/s1 chasquido.wav","type":"audio","bank":"HOME","n":0},
-    { "url":"audis/HOME/s2 postits.wav","type":"audio","bank":"HOME","n":1},
-    { "url":"audis/HOME/s3 gotas.wav","type":"audio","bank":"HOME","n":2},
-    { "url":"audis/HOME/s4 teclas.wav","type":"audio","bank":"HOME","n":3},
-    { "url":"audis/HOME/s5 llaves.wav","type":"audio","bank":"HOME","n":4},
+    { "url":"pt1/s1.wav","type":"audio","bank":"pt1","n":0},
+    { "url":"pt1/s2.wav","type":"audio","bank":"pt1","n":1},
+    { "url":"pt1/s3.wav","type":"audio","bank":"pt1","n":2},
+    { "url":"pt1/s4.wav","type":"audio","bank":"pt1","n":3},
+    { "url":"pt1/s5.wav","type":"audio","bank":"pt1","n":4},
   
-  { "url":"audis/AJENOS/s6 coro.wav","type":"audio","bank":"AJENOS","n":0},
-  { "url":"audis/AJENOS/s7 ballena.wav","type":"audio","bank":"AJENOS","n":1},
-  { "url":"audis/AJENOS/s8 vortex.wav","type":"audio","bank":"AJENOS","n":2},
-  { "url":"audis/AJENOS/s9 svetlana.wav","type":"audio","bank":"AJENOS","n":3},
+  { "url":"pt2/s6.wav","type":"audio","bank":"pt2","n":0},
+  { "url":"pt2/s7.wav","type":"audio","bank":"pt2","n":1},
+  { "url":"pt2/s8.wav","type":"audio","bank":"pt2","n":2},
+  { "url":"pt2/s9.wav","type":"audio","bank":"pt2","n":3},
 
 ]
