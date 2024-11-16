@@ -1,1 +1,13 @@
+[
+    { "url":"HOME/s1 chasquido.wav","type":"audio","bank":"HOME","n":0},
+    { "url":"HOME/s2 postits.wav","type":"audio","bank":"HOME","n":1},
+    { "url":"HOME/s3 gotas.wav","type":"audio","bank":"HOME","n":2},
+    { "url":"HOME/s4 teclas.wav","type":"audio","bank":"HOME","n":3},
+    { "url":"HOME/s5 llaves.wav","type":"audio","bank":"HOME","n":4},
+  
+  { "url":"AJENOS/s6 coro.wav","type":"audio","bank":"AJENOS","n":0},
+  { "url":"AJENOS/s7 ballena.wav","type":"audio","bank":"AJENOS","n":1},
+  { "url":"AJENOS/s8 vortex.wav","type":"audio","bank":"AJENOS","n":2},
+  { "url":"AJENOS/s9 svetlana.wav","type":"audio","bank":"AJENOS","n":3}
 
+]
