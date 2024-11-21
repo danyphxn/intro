@@ -5,9 +5,9 @@
     { "url":"pt1/s4.WAV","type":"audio","bank":"pt1","n":3},
     { "url":"pt1/s5.WAV","type":"audio","bank":"pt1","n":4},
   
-  { "url":"pt2/s6.WAV","type":"audio","bank":"pt2","n":0},
-  { "url":"pt2/s7.WAV","type":"audio","bank":"pt2","n":1},
-  { "url":"pt2/s8.WAV","type":"audio","bank":"pt2","n":2},
-  { "url":"pt2/s9.WAV","type":"audio","bank":"pt2","n":3},
+    { "url":"pt2/s6.WAV","type":"audio","bank":"pt2","n":0},
+    { "url":"pt2/s7.WAV","type":"audio","bank":"pt2","n":1},
+    { "url":"pt2/s8.WAV","type":"audio","bank":"pt2","n":2},
+    { "url":"pt2/s9.WAV","type":"audio","bank":"pt2","n":3},
 
 ]
