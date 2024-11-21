@@ -8,6 +8,6 @@
     { "url":"pt2/s6.WAV","type":"audio","bank":"pt2","n":0},
     { "url":"pt2/s7.WAV","type":"audio","bank":"pt2","n":1},
     { "url":"pt2/s8.WAV","type":"audio","bank":"pt2","n":2},
-    { "url":"pt2/s9.WAV","type":"audio","bank":"pt2","n":3},
+    { "url":"pt2/s9.WAV","type":"audio","bank":"pt2","n":3}
 
 ]
